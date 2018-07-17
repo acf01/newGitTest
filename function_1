@@ -1,0 +1,4 @@
+const multTwoNum = (A,B) => {
+return A*B
+}
+console.log(multTwoNum(10,100));
